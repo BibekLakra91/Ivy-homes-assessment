@@ -42,9 +42,8 @@ Replace `script_name.py` with the actual name of your Python script.
 
 Open your web browser or use a tool like curl or Postman to access the `/scrape` endpoint:
 
-```
-http://localhost:5000/scrape
-```
+`http://localhost:5000/scrape`
+
 
 This will trigger the scraping process, update the SQLite database, and export the data to a CSV file.
 
@@ -59,7 +58,7 @@ This will trigger the scraping process, update the SQLite database, and export t
 This script is for educational purposes only. Use it responsibly and in accordance with IMDb's terms of service.
 
 Feel free to modify and customize the script based on your needs.
-```
+
 
 Make sure to replace `script_name.py` with the actual name of your Python script. You can add more sections or details to the README file based on your specific requirements.
 
