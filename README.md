@@ -59,7 +59,7 @@ This script is for educational purposes only. Use it responsibly and in accordan
 
 Feel free to modify and customize the script based on your needs.
 
-
+The challenge faced: I misunderstood the problem statement, and because of time constraints, my solution significantly deviated from the specified requirements
 Make sure to replace `script_name.py` with the actual name of your Python script. You can add more sections or details to the README file based on your specific requirements.
 
 ##Author: Bibek Lakra
